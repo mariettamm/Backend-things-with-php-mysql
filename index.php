@@ -16,8 +16,8 @@
     <div id="menu" class="sidenav">
       <ul>
         <li>
-          <a href="formulario incidencias/incidencias.php"
-            >Furmulario Incidencias</a
+          <a href="Inquiries form/incidencias.php"
+            >Inquiries form</a
           >
         </li>
         <li>Formulario escuela</li>
